@@ -115,5 +115,6 @@ T any_cast(const Any&   a) {
     throw BadAnyCast{};
 }
 
+
 #endif // ANY_H
 
