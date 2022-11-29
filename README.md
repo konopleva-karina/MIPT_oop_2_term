@@ -1,2 +1,2 @@
 # Object Oriented Programming
-Realization of STL classes can be found in corresponding branches
+Implementation of STL classes can be found in corresponding branches
